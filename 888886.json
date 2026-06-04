@@ -1,0 +1,10 @@
+{
+  "channel": "888886",
+  "api_base_url": "https://api.glamai01.it.com",
+  "h5_url": "https://res.glamai01.it.com/package/v1.0.zip",
+  "h5_version": "1.0",
+  "h5_sha256": "79a46cf4ea036865b097d5e86b1949ffb7046faa2b46f6f41c43170140b97067",
+  "res_base_url": "https://res.glamai01.it.com",
+  "privacy_url": "https://res.glamai01.it.com/privacy.html",
+  "terms_url": "https://res.glamai01.it.com/user_agreement.html"
+}
